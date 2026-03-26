@@ -37,17 +37,17 @@ h(n): The estimated cost to reach the goal (heuristic).
 🚀 Installation & Usage
 1.Clone the repository:
 
-Bash
+Bash:
 git clone https://github.com/vaishnaviibhaltand28/Syntecxhub-Maze-Solver.git
 
 2.Install Dependencies:
 
-Bash
+Bash:
 pip install matplotlib numpy
 
 3.Execute the Solver:
 
-Bash
+Bash:
 python maze_solver.py
 
 4.Interact: Enter 1 for Manhattan or 2 for Euclidean distance when prompted in the terminal.
